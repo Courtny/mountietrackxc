@@ -1,18 +1,18 @@
 <header class="header">
 
-	<div class="wrap">
+	<div class="grid ac__center wrap">
 
-		{% if site.data.settings.header_settings.logo_image %}
-		<a href="/" class="header__logo">
+		<a href="/" class="grid--cell header__logo">
 			<img src="{{ site.data.settings.header_settings.logo_image }}" class="header__logo__img">
 		</a>
-		{% else %}
-		<a href="/" class="header__title">
-			{{ site.data.settings.basic_settings.site_title }}
-		</a>
-		{% endif %}
 
-		<div class="menu">
+		<div class="grid--cell pl16 as-center">
+			<a href="/" class="header__title">
+				Southmont Track & XC
+			</a>
+		</div>
+
+		<div class="grid--cell menu">
 			<div class="menu__toggle js-menu-toggle">
 				<div class="menu__toggle__icon"><span></span></div>
 			</div>

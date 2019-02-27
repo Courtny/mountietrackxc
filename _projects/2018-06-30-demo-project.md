@@ -1,8 +1,8 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
+title: '2019 Practice Rankings'
+subtitle: 'Data driven speed training'
 date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: Our collection of speed data and practice rankings. Updated on practice days.
 featured_image: '/images/demo/demo-square.jpg'
 ---
 

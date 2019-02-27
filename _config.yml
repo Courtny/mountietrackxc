@@ -8,10 +8,10 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /blog/:slug
+    permalink: /featured/:slug
   projects:
     output: true
-    permalink: /project/:slug
+    permalink: /featured/:slug
 
 defaults:
   -
@@ -34,7 +34,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "projects"
+      type: "featured"
     values:
       layout: "project"
 

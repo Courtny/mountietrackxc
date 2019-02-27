@@ -1,24 +1,24 @@
 basic_settings:
-  site_title: Personal
+  site_title: Southmont Track & Cross Country
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image: 
-  logo_width: 200
+  logo_image: /images/smbadge.svg
+  logo_width: 50
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Home'
       url: '/'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'About'
-      url: '/about'
+    - title: 'Coaches'
+      url: '/coaches'
     - title: 'Contact'
       url: '/contact'
 
 footer_settings:
-  footer_tagline: A sleek, modern Jekyll theme for personal websites.
+  footer_tagline: Southmont Mounties Track & Field, Cross Country | New Market, IN
 
 hero_settings:
   overlay_opacity: 0.8
@@ -27,15 +27,15 @@ post_settings:
   grid_spacing: 10
 
 contact_settings:
-  form_action: 'https://formspree.io/'
+  form_action: 'https://formspree.io/court@mountietrackxc.com'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: ''
-  twitter_url: ''
-  instagram_url: ''
+  facebook_url: 'https://www.facebook.com/MountieTrackXC/'
+  twitter_url: 'https://twitter.com/mountietrackxc'
+  instagram_url: 'https://instagram.com/mountietrackxc'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
@@ -66,7 +66,7 @@ color_settings:
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
   text_light_color: '#ABB7B7'
-  accent_color: '#3498db'
+  accent_color: '#C12222'
   border_color: '#dddddd'
   hero_background_color: '#132930'
   hero_text_color: '#ffffff'
