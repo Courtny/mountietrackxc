@@ -13,4 +13,4 @@ We've put together our most common sprint cues for teaching your athletes proper
 5. **“Cross the hips”** - Open palms cross the hips, (I say this constantly!) 
 6. **“Heel up, knee up, toe up”** - Dorsi-flexed foot is imperative _(like a loaded spring)_ – short lever, calf activation, minimizes ground contact.
 
-![](/img/uploads/sprint-cues.png)
+![]()
