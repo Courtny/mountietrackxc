@@ -11,7 +11,9 @@ featured_image: /images/demo/about.jpg
 * Courtny Cotten - Distance, Hurdles, Sprints
 * Randy Christensen - High Jump
 * Brad Acton - Long Jump, Sprints
-* Jeremiah Sparks - Throws
+* Jeremiah Sparks & Joshua Hagenow - Throws
+* Mike Norman - Pole Vault
+* Pat Myers - Middle School Head Coach
 
 ## Cross Country
 
