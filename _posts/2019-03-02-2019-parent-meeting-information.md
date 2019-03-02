@@ -1,6 +1,9 @@
 ---
 layout: post
 title: 2019 Parent Meeting Information
+date: 2019-03-02 00:00:00
+description: Important notes for parents of track & field athletes
+featured_image: '/img/uploads/parent-info.JPG'
 ---
 **Head Coach:** Desson Hannum Assistants: Coach Sparks, Coach Christensen, Coach Cotten, Coach Acton, Coach Hagenow, & Coach Norman
 
@@ -12,7 +15,7 @@ title: 2019 Parent Meeting Information
 * Remind App _(Send us a message if you’re a parent who needs an invite to the private group)_
 * Website: mountietrackxc.com
 
-## Upcoming Dates 
+## Upcoming Dates
 
 Calendar can be found on [Athletics Website](https://l.facebook.com/l.php?u=https%3A%2F%2Fsouthmontmounties.rschoolteams.com%2Fpage%2F3011%3Ffbclid%3DIwAR3RHOVuDYGhzONw9JzVFjbKX_6jEN1LIefQrbJ3aGgyCb91fNl3E_HPSoo&h=AT2XuLhMloA1ETRopGwpklgG4eROqI_GdU6Yp6kZKbS4xyoO9KyoqMEFm-OH7Sv0oIbtClwX63rQERt13vRDrVluWm59ufKZeLK1JfMKYYwJvCzkya5QebecEZACPDN3uvZKh0YZbpaVUF7H3aCT) or via Remind app. We also try to post events to Facebook.
 
@@ -38,10 +41,10 @@ See the [following document](https://docs.google.com/document/d/1BAorwvVJmmt02LS
 * Work Home Track Meets
 * To attend the end of the year banquet.
 * Communication Coaches Expect From Parents
-* Concerns should be expressed directly to the head coach, not assistant coaches.  If there is a concern please wait at least one hour after a game or a practice.  If it is still a concern at this point, please contact the head coach. 
+* Concerns should be expressed directly to the head coach, not assistant coaches.  If there is a concern please wait at least one hour after a game or a practice.  If it is still a concern at this point, please contact the head coach.
 * Notify the head coach of any schedule conflicts well in advance.
 
-## Appropriate Concerns to Discuss with Head Coach 
+## Appropriate Concerns to Discuss with Head Coach
 
 * The treatment of your child.
 * Ways to help your child improve.
@@ -49,9 +52,9 @@ See the [following document](https://docs.google.com/document/d/1BAorwvVJmmt02LS
 * Limitations & Restrictions from Dr. - Clear & Specific!
 * **Understand that all our coaches are professionals.  We will make judgment decisions on what we believe is in the interest of the program.**  
 
-## **Issues Not Appropriate to Discuss with Coaches** 
+## **Issues Not Appropriate to Discuss with Coaches**
 
-* Team Strategy 
+* Team Strategy
 * Other Student-Athletes
 * Mr. Charles (Athletic Director)
 * **If there is a situation that does require a conference, please schedule a conference with the head coach.  Please refer to the Parent / Coach Communication from the Athletic policy.**
@@ -82,7 +85,7 @@ Like any Track program, we depend upon volunteers to help us out with meets.  We
 
 We’ll need the following spots filled with volunteers: x2 Ticket Takers, x4 Concession Stand Workers, x2 HJ Workers.
 
-## Proper Footwear for Track 
+## Proper Footwear for Track
 
 See the [following article](http://athleteaudit.com/how-to-choose-track-spikes-and-field-shoes/?fbclid=IwAR2fK2ahNatN8iffMc1iW8j714b_aFQ1JHqA6Nt1_dm1s75_VYtIbizX0Z8) on guidance for proper footwear; Sprinters, Distance, Jumps, Throws all have different needs!
 
