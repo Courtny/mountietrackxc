@@ -2,7 +2,7 @@
 layout: post
 title: 2019 Parent Meeting Information
 date: 2019-03-02 00:00:00
-description: Important notes for parents of track & field athletes
+description: Important notes for parents of track & field athletes.
 featured_image: '/img/uploads/parent-info.JPG'
 ---
 **Head Coach:** Desson Hannum Assistants: Coach Sparks, Coach Christensen, Coach Cotten, Coach Acton, Coach Hagenow, & Coach Norman
