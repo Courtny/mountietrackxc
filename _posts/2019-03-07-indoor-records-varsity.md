@@ -38,7 +38,7 @@ Bold results indicate recent (within 1 year) records.
 | 200 Meters          | 28.37        | Jessica Shelton                                                 | 2013     |
 | **400 Meters**      | **1:09.05**  | **Kelsey Dugger**                                               | **2018** |
 | 800 Meters          | 2:50.73      | Renae Turner                                                    | 2013     |
-| 800 Meters          |       | _No competitor_                                                    |      |
+| 1200 Meters          |       | _No competitor_                                                    |      |
 | **1600 Meters**     | **5:50.01**  | **Kelsey Dugger**                                               | **2018** |
 | **3200 Meters**     | **12:33.31** | **Kelsey Dugger**                                               | **2018** |
 | 55m Hurdles 33"     | 9.51         | Jessica Shelton                                                 | 2012     |
