@@ -28,8 +28,8 @@ All time indoor boys & girls records for 9th grade. All times must be ran fully 
 | 55 Meter Dash   | 7.74        | Jessica Shelton     | 2011 |
 | 60 Meter Dash   | 9.02        | Emma Kinkead      | 2015 |
 | 200 Meters      | 30.25       | Brittany Barrett    | 2013 |
-| 800 Meters      | N/A     | N/A   | N/A |
-| 1600 Meters     | N/A     |   N/A    | N/A |
+| 800 Meters      |      | none   |  |
+| 1600 Meters     |      |  none    |  |
 | 3200 Meters     | 13:13.81    | Kelsey Dugger  | 2015 |
 | 55m Hurdles 33" | 9.70       | Jessica Shelton   | 2011 |
 | 60m Hurdles 33" | 10.95       | Macy Zachary  | 2015 |
