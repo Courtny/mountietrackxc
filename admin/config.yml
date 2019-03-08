@@ -15,6 +15,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Featured Image", name: "featured_image", widget: "image", default: "/img/uploads/mounties-default.jpg", multiple: true }
+      - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Categories", name: "categories", widget: "string", required: false}
     meta: # Meta data fields. Just like fields, but without any preview element
