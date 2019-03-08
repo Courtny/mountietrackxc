@@ -11,6 +11,7 @@ All time indoor boys & girls records for 9th grade. All times must be ran fully 
 | 55 Meter Dash   | 8.01        | Logan Olinger     | 2011 |
 | 60 Meter Dash   | 7.88        | Ty Welliever      | 2018 |
 | 200 Meters      | 27.72       | Mikal Farabee     | 2012 |
+| 400 Meters      |        | _No competitors_ |  |
 | 800 Meters      | 2:37.20     | Connor Moore      | 2013 |
 | 1600 Meters     | 5:32.74     | Connor Moore      | 2013 |
 | 3200 Meters     | 10:50.67    | Brooks Long       | 2014 |
@@ -28,6 +29,7 @@ All time indoor boys & girls records for 9th grade. All times must be ran fully 
 | 55 Meter Dash   | 7.74        | Jessica Shelton  | 2011 |
 | 60 Meter Dash   | 9.02        | Emma Kinkead     | 2015 |
 | 200 Meters      | 30.25       | Brittany Barrett | 2013 |
+| 400 Meters      |        | _No competitors_ |  |
 | 800 Meters      |             | _No competitors_ |      |
 | 1600 Meters     |             | _No competitors_ |      |
 | 3200 Meters     | 13:13.81    | Kelsey Dugger    | 2015 |
