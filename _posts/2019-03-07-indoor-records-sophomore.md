@@ -4,11 +4,11 @@ title: Indoor Records (Sophomore)
 featured_image: >-
   https://raw.githubusercontent.com/Courtny/mountietrackxc/master/img/uploads/mounties-default.jpg
 description: >-
-  All time indoor boys & girls records for 9th grade. All times must be ran
+  All time indoor boys & girls records for 10th grade. All times must be ran
   fully automatic timing (F.A.T) and measurements approved by sanctioned meet
   official.
 ---
-All time indoor boys & girls records for 9th grade. All times must be ran fully automatic timing (F.A.T) and measurements approved by sanctioned meet official.
+All time indoor boys & girls records for 10th grade. All times must be ran fully automatic timing (F.A.T) and measurements approved by sanctioned meet official.
 
 ## Boys 10th Grade
 
