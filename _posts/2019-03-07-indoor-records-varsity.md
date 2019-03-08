@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Indoor Records (Varsity)
+title: Indoor Records (All-Varsity)
 ---
 All time indoor boys & girls records for all grades. All times must be ran fully automatic timing (F.A.T) and measurements approved by sanctioned meet official.
 
