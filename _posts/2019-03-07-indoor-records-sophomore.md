@@ -13,7 +13,7 @@ All time indoor boys & girls records for 9th grade. All times must be ran fully 
 | 200 Meters      | 28.21       | Logan Olinger     | 2012 |
 | 400 Meters      | 57.87     | Elijah Sims      | 2012 |
 | 800 Meters      | 2:09.60     | Elijah Sims      | 2012 |
-| 1600 Meters     | 5:54.97     | 5:54.97      | 2012 |
+| 1600 Meters     | 5:54.97     | Andrew Chapai      | 2012 |
 | 3200 Meters     | 10:22.27    | Brooks Long       | 2015 |
 | 55m Hurdles 39" | 10.90       | Logan Olinger   | 2012 |
 | 60m Hurdles 39" | 10.72       | Takeshi Greiner   | 2018 |
