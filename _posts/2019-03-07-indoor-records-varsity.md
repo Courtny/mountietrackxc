@@ -18,10 +18,10 @@ All time indoor boys & girls records for all grades. All times must be ran fully
 | 3200 Meters     | 9:38.11    | Brooks Long       | 2017 |
 | 55m Hurdles 39" | 8.84       | Jason Christensen   | 2012 |
 | 60m Hurdles 39" | 9.13       | Jason Christensen   | 2015 |
-| Shot Put 12lb.  | 41' 6"      | Dash Dericks     | 2012 |
-| High Jump       | 5' 6"       | Jason Christensen | 2013 |
-| Pole Vault      | 11' 0"       | Dan Barrett       | 2011 |
-| Long Jump       | 19' 8"      | Jakob Richardson       | 2014 |
+| Shot Put 12lb.  | 47' 7.75"      | Dregan Baumgardner     | 2012 |
+| High Jump       | 6' 10"       | Jonathan Christensen | 2011 |
+| Pole Vault      | 13' 0"       | Dan Barrett       | 2012 |
+| Long Jump       | 19' 9.5"      | Jakob Richardson       | 2012 |
 
 ## Girls All Time
 
