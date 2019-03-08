@@ -20,7 +20,7 @@ All time indoor boys & girls records for 9th grade. All times must be ran fully 
 | Shot Put 12lb.  | 41' 6"      | Dash Dericks     | 2012 |
 | High Jump       | 5' 6"       | Jason Christensen | 2013 |
 | Pole Vault      | 11' 0"       | Dan Barrett       | 2011 |
-| Long Jump       | 19' 8"      | Jakob Richardson       | 2014 |
+| Long Jump       | 19' 8"      | Jakob Richardson       | 2011 |
 
 ## Girls 10th Grade
 
