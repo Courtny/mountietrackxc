@@ -22,6 +22,9 @@ All time indoor boys & girls records for all grades. All times must be ran fully
 | High Jump       | 6' 10"       | Jonathan Christensen | 2011 |
 | Pole Vault      | 13' 0"       | Dan Barrett       | 2012 |
 | Long Jump       | 19' 9.5"      | Jakob Richardson       | 2012 |
+| 4x200 Relay | 1:40.01 | J. Richardson, D. Barrett, M. Farabee, P. Myers | 2013 |
+| 4x400 Relay | 3:42.20 | J. Richardson, D. Barrett, M. Farabee, E. Sims | 2013 |
+ 
 
 ## Girls All Time
 
