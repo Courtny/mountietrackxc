@@ -16,7 +16,6 @@ All time indoor boys & girls records for 9th grade. All times must be ran fully 
 | 1600 Meters     | 5:32.74     | Connor Moore      | 2013 |
 | 3200 Meters     | 10:50.67    | Brooks Long       | 2014 |
 | 60m Hurdles 39" | 10.86       | Takeshi Greiner   | 2017 |
-| 60m Hurdles 42" | 11.74       | Jake Whitecotton  | 2018 |
 | Shot Put 12lb.  | 36' 7"      | Elijah Sparks     | 2016 |
 | High Jump       | 5' 7"       | Jason Christensen | 2012 |
 | Pole Vault      | 7' 0"       | Logan Benge       | 2016 |
