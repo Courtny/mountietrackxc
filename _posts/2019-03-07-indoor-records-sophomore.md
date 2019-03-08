@@ -16,8 +16,7 @@ All time indoor boys & girls records for 9th grade. All times must be ran fully 
 | 1600 Meters     | 5:54.97     | Andrew Chapai      | 2012 |
 | 3200 Meters     | 10:22.27    | Brooks Long       | 2015 |
 | 55m Hurdles 39" | 10.90       | Logan Olinger   | 2012 |
-| 60m Hurdles 39" | 10.72       | Takeshi Greiner   | 2018 |
-| 60m Hurdles 42" | 10.58       | Takeshi Greiner  | 2018 |
+| 60m Hurdles 39" | 10.58       | Takeshi Greiner   | 2018 |
 | Shot Put 12lb.  | 41' 6"      | Dash Dericks     | 2012 |
 | High Jump       | 5' 6"       | Jason Christensen | 2013 |
 | Pole Vault      | 11' 0"       | Dan Barrett       | 2011 |
