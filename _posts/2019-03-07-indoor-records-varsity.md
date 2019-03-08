@@ -24,6 +24,8 @@ All time indoor boys & girls records for all grades. All times must be ran fully
 | Long Jump       | 19' 9.5"      | Jakob Richardson       | 2012 |
 | 4x200 Relay | 1:40.01 | J. Richardson, D. Barrett, M. Farabee, P. Myers | 2013 |
 | 4x400 Relay | 3:42.20 | J. Richardson, D. Barrett, M. Farabee, E. Sims | 2013 |
+| 4x800 Relay | 8:37.07 | A. Brissey, B. Long, R. Lippencott, N. Clos | 2017 |
+| 12-4-8-16 Relay | 11:22.57 | A. Brissey, N. McManus, R. Lippencott, B. Long | 2017 |
  
 
 ## Girls All Time
