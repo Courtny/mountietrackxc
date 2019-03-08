@@ -246,6 +246,15 @@ a {
 	}
 }
 
+th, td {
+	font-size: 12px !important;
+
+	@include mq(phonel) {
+		font-size: $p-small !important;
+	}
+
+}
+
 .button--large {
 	padding: 15px 20px 16px;
 	font-size: 13px;
