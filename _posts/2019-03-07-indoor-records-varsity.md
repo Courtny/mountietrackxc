@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Indoor Records (All-Varsity)
+featured_image: >-
+  https://raw.githubusercontent.com/Courtny/mountietrackxc/master/img/uploads/parent-info.JPG
 ---
 All time indoor boys & girls records for all grades. All times must be ran fully automatic timing (F.A.T) and measurements approved by sanctioned meet official.
 
