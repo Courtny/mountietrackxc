@@ -2,7 +2,9 @@
 layout: post
 title: Indoor Records (Freshman)
 ---
-## Boys
+All time indoor boys & girls records for 9th grade. All times must be ran fully automatic timing (F.A.T) and measurements approved by sanctioned meet official.
+
+## Boys 9th Grade
 
 | Event           | Performance | Athlete           | Year |
 | --------------- | ----------- | ----------------- | ---- |
@@ -19,7 +21,7 @@ title: Indoor Records (Freshman)
 | Pole Vault      | 7' 0"       | Logan Benge       | 2016 |
 | Long Jump       | 17' 6"      | Austin Tate       | 2014 |
 
-## Girls
+## Girls 9th Grade
 
 | Event           | Performance | Athlete           | Year |
 | --------------- | ----------- | ----------------- | ---- |
