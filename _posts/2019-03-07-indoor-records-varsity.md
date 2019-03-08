@@ -45,3 +45,7 @@ All time indoor boys & girls records for all grades. All times must be ran fully
 | High Jump       | 4' 10"       | Kasey Burton       | 2016 |
 | Pole Vault      |  8' 6"      | Brittany Barrett     | 2014 |
 | Long Jump       | 16' 2.75"      | Brittany Barrett     | 2016 |
+| 4x200 Relay | 1:55.98 | Allie Norris, Jessica Shelton, Shelby Harris, Stephanie Martin | 2011 |
+| 4x400 Relay | 4:27.86 | Stephanie Martin, Shelby Harris, Kylie Lippencott, Allie Norris | 2011 |
+| 4x800 Relay | 11:49.05 |  Christa Edwards, Katelyn Hutson, Emma Kinkead, Kelsey Dugger | 2015 |
+| 12-4-8-16 Relay | 15:21.62 | A. Charles, E. Ward, D. Chieppo, K. Dugger | 2018 |
