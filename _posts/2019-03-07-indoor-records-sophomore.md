@@ -30,6 +30,7 @@ All time indoor boys & girls records for 9th grade. All times must be ran fully 
 | 55 Meter Dash   | 7.84        | Jessica Shelton  | 2012 |
 | 60 Meter Dash   | 8.37        | Lexie Odum     | 2018 |
 | 200 Meters      | 28.70       | Jessica Shelton | 2012 |
+| 400 Meters      |      | _No competitors_      |  |
 | 800 Meters      |             | _No competitors_ |      |
 | 1600 Meters     | 7:01.11       | Christa Edwards |   2013   |
 | 3200 Meters     | 12:33.91    | Kelsey Dugger    | 2016 |
