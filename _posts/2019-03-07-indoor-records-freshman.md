@@ -18,3 +18,20 @@ title: Indoor Records (Freshman)
 | High Jump       | 5' 7"       | Jason Christensen | 2012 |
 | Pole Vault      | 7' 0"       | Logan Benge       | 2016 |
 | Long Jump       | 17' 6"      | Austin Tate       | 2014 |
+
+## Girls
+
+| Event           | Performance | Athlete           | Year |
+| --------------- | ----------- | ----------------- | ---- |
+| 55 Meter Dash   | 7.74        | Jessica Shelton     | 2011 |
+| 60 Meter Dash   | 9.02        | Emma Kinkead      | 2015 |
+| 200 Meters      | 30.25       | Brittany Barrett    | 2013 |
+| 800 Meters      | N/A     | N/A   | N/A |
+| 1600 Meters     | N/A     |   N/A    | N/A |
+| 3200 Meters     | 13:13.81    | Kelsey Dugger  | 2015 |
+| 55m Hurdles 33" | 9.70       | Jessica Shelton   | 2011 |
+| 60m Hurdles 33" | 10.95       | Macy Zachary  | 2015 |
+| Shot Put 4kg.  | 26' 10"      | Cali Wetli    | 2011 |
+| High Jump       | 4' 8"       | Cali Wetli | 2011 |
+| Pole Vault      | 6' 0"       | Macy Zachary       | 2015 |
+| Long Jump       | 13' 2"      | Trystan Beck       | 2016 |
