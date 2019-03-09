@@ -15,7 +15,7 @@ All time indoor boys & girls records for 9th grade. All times must be ran fully 
 | Event             | Performance | Athlete           | Year     |
 | ----------------- | ----------- | ----------------- | -------- |
 | 55 Meter Dash     | 8.01        | Logan Olinger     | 2011     |
-| **60 Meter Dash** | **7.88**    | **Ty Welliever**  | **2018** |
+| **60 Meter Dash** | **7.45**    | **Trent Jones**   | **2019** |
 | 200 Meters        | 27.72       | Mikal Farabee     | 2012     |
 | 400 Meters        |             | _No competitors_  |          |
 | 800 Meters        | 2:37.20     | Connor Moore      | 2013     |
