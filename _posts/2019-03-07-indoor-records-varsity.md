@@ -30,7 +30,7 @@ Bold results indicate recent (within 1 year) records.
 | High Jump         | 6' 10"      | Jonathan Christensen                                      | 2011     |
 | Pole Vault        | 13' 0"      | Dan Barrett                                               | 2012     |
 | Long Jump         | 19' 9.5"    | Jakob Richardson                                          | 2012     |
-| 4x200 Relay       | 1:40.01     | Jakob Richardson, Dan Barrett, Mikel Farabee, Pat Myers   | 2013     |
+| **4x200 Relay**   | **1:38.74** | **Trent Jones, Cameron Giles, Ty Welliever, Evan Hedge**  | **2019** |
 | 4x400 Relay       | 3:42.20     | Jakob Richardson, Dan Barrett, Mikel Farabee, Elijah Sims | 2013     |
 | 4x800 Relay       | 8:37.07     | Alec Brissey, Brooks Long, Ross Lippencott, Noah Clos     | 2017     |
 | 12-4-8-16 Relay   | 11:22.57    | Alec Brissey, Nick McManus, Ross Lippencott, Brooks Long  | 2017     |
