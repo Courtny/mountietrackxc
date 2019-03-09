@@ -37,23 +37,23 @@ Bold results indicate recent (within 1 year) records.
 
 ## Girls All Time
 
-| Event               | Performance | Athlete                                                         | Year |
-| ------------------- | ----------- | --------------------------------------------------------------- | ---- |
-| 55 Meter Dash       | 7.74        | Jessica Shelton                                                 | 2011 |
-| 60 Meter Dash       | 7.66        | Jessica Shelton                                                 | 2011 |
-| 200 Meters          | 28.37       | Jessica Shelton                                                 | 2013 |
-| 400 Meters          | 1:09.05     | Kelsey Dugger                                                   | 2018 |
-| 800 Meters          | 2:50.73     | Renae Turner                                                    | 2013 |
-| 1200 Meters         |             | _No competitor_                                                 |      |
-| 1600 Meters         | 5:50.01     | Kelsey Dugger                                                   | 2018 |
-| 3200 Meters         | 12:33.31    | Kelsey Dugger                                                   | 2018 |
-| 55m Hurdles 33"     | 9.51        | Jessica Shelton                                                 | 2012 |
-| 60m Hurdles 33"     | 10.20       | Brittany Barrett                                                | 2015 |
-| Shot Put 4kg.       | 35' 2.5"    | Cassie Parker                                                   | 2011 |
-| High Jump           | 4' 10"      | Kasey Burton                                                    | 2016 |
-| Pole Vault          | 8' 6"       | Brittany Barrett                                                | 2014 |
-| Long Jump           | 16' 2.75"   | Brittany Barrett                                                | 2016 |
-| 4x200 Relay         | 1:55.98     | Allie Norris, Jessica Shelton, Shelby Harris, Stephanie Martin  | 2011 |
-| 4x400 Relay         | 4:27.86     | Stephanie Martin, Shelby Harris, Kylie Lippencott, Allie Norris | 2011 |
-| 4x800 Relay         | 11:49.05    | Christa Edwards, Katelyn Hutson, Emma Kinkead, Kelsey Dugger    | 2015 |
-| **12-4-8-16** Relay | 15:21.62    | Addison Charles, Emma Ward, Darzy Chieppo, Kelsey Dugger        | 2018 |
+| Event           | Performance | Athlete                                                         | Year |
+| --------------- | ----------- | --------------------------------------------------------------- | ---- |
+| 55 Meter Dash   | 7.74        | Jessica Shelton                                                 | 2011 |
+| 60 Meter Dash   | 7.66        | Jessica Shelton                                                 | 2011 |
+| 200 Meters      | 28.37       | Jessica Shelton                                                 | 2013 |
+| 400 Meters      | 1:09.05     | Kelsey Dugger                                                   | 2018 |
+| 800 Meters      | 2:50.73     | Renae Turner                                                    | 2013 |
+| 1200 Meters     |             | _No competitor_                                                 |      |
+| 1600 Meters     | 5:50.01     | Kelsey Dugger                                                   | 2018 |
+| 3200 Meters     | 12:33.31    | Kelsey Dugger                                                   | 2018 |
+| 55m Hurdles 33" | 9.51        | Jessica Shelton                                                 | 2012 |
+| 60m Hurdles 33" | 10.20       | Brittany Barrett                                                | 2015 |
+| Shot Put 4kg.   | 35' 2.5"    | Cassie Parker                                                   | 2011 |
+| High Jump       | 4' 10"      | Kasey Burton                                                    | 2016 |
+| Pole Vault      | 8' 6"       | Brittany Barrett                                                | 2014 |
+| Long Jump       | 16' 2.75"   | Brittany Barrett                                                | 2016 |
+| 4x200 Relay     | 1:55.98     | Allie Norris, Jessica Shelton, Shelby Harris, Stephanie Martin  | 2011 |
+| 4x400 Relay     | 4:27.86     | Stephanie Martin, Shelby Harris, Kylie Lippencott, Allie Norris | 2011 |
+| 4x800 Relay     | 11:49.05    | Christa Edwards, Katelyn Hutson, Emma Kinkead, Kelsey Dugger    | 2015 |
+| 12-4-8-16 Relay | 15:21.62    | Addison Charles, Emma Ward, Darzy Chieppo, Kelsey Dugger        | 2018 |
