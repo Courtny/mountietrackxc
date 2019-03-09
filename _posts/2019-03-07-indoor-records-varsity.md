@@ -33,7 +33,7 @@ Bold results indicate recent (within 1 year) records.
 | **4x200 Relay**   | **1:38.74** | **Trent Jones, Cameron Giles, Ty Welliever, Evan Hedge**  | **2019** |
 | 4x400 Relay       | 3:42.20     | Jakob Richardson, Dan Barrett, Mikel Farabee, Elijah Sims | 2013     |
 | 4x800 Relay       | 8:37.07     | Alec Brissey, Brooks Long, Ross Lippencott, Noah Clos     | 2017     |
-| 12-4-8-16 Relay   | 11:22.57    | Alec Brissey, Nick McManus, Ross Lippencott, Brooks Long  | 2017     |
+| 12-4-8-16 Relay   | 11:22.57    | Alec Brissey, Noah Close, Ross Lippencott, Brooks Long    | 2017     |
 
 ## Girls All Time
 
