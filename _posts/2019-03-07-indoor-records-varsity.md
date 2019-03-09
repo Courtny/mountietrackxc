@@ -14,26 +14,26 @@ Bold results indicate recent (within 1 year) records.
 
 ## Boys All Time
 
-| Event             | Performance | Athlete                                                   | Year     |
-| ----------------- | ----------- | --------------------------------------------------------- | -------- |
-| 55 Meter Dash     | 6.99        | Jakob Richardson                                          | 2012     |
-| **60 Meter Dash** | **7.45**    | **Trent Jones**                                           | **2019** |
-| 200 Meters        | 24.70       | Dan Barrett                                               | 2013     |
-| 400 Meters        | 57.87       | Elijah Sims                                               | 2012     |
-| 800 Meters        | 2:09.60     | Elijah Sims                                               | 2012     |
-| 1200 Meters       | 3:50.07     | Noah Clos                                                 | 2018     |
-| 1600 Meters       | 4:56.36     | Elijah Sims                                               | 2013     |
-| 3200 Meters       | 9:38.11     | Brooks Long                                               | 2017     |
-| 55m Hurdles 39"   | 8.84        | Jason Christensen                                         | 2012     |
-| 60m Hurdles 39"   | 9.13        | Jason Christensen                                         | 2015     |
-| Shot Put 12lb.    | 47' 7.75"   | Dregan Baumgardner                                        | 2012     |
-| High Jump         | 6' 10"      | Jonathan Christensen                                      | 2011     |
-| Pole Vault        | 13' 0"      | Dan Barrett                                               | 2012     |
-| Long Jump         | 19' 9.5"    | Jakob Richardson                                          | 2012     |
-| **4x200 Relay**   | **1:38.74** | **Trent Jones, Cameron Giles, Ty Welliever, Evan Hedge**  | **2019** |
-| 4x400 Relay       | 3:42.20     | Jakob Richardson, Dan Barrett, Mikel Farabee, Elijah Sims | 2013     |
-| 4x800 Relay       | 8:37.07     | Alec Brissey, Brooks Long, Ross Lippencott, Noah Clos     | 2017     |
-| 12-4-8-16 Relay   | 11:22.57    | Alec Brissey, Noah Close, Ross Lippencott, Brooks Long    | 2017     |
+| Event             | Performance | Athlete                                                       | Year     |
+| ----------------- | ----------- | ------------------------------------------------------------- | -------- |
+| 55 Meter Dash     | 6.99        | Jakob Richardson                                              | 2012     |
+| **60 Meter Dash** | **7.45**    | **Trent Jones**                                               | **2019** |
+| 200 Meters        | 24.70       | Dan Barrett                                                   | 2013     |
+| 400 Meters        | 57.87       | Elijah Sims                                                   | 2012     |
+| 800 Meters        | 2:09.60     | Elijah Sims                                                   | 2012     |
+| 1200 Meters       | 3:50.07     | Noah Clos                                                     | 2018     |
+| 1600 Meters       | 4:56.36     | Elijah Sims                                                   | 2013     |
+| 3200 Meters       | 9:38.11     | Brooks Long                                                   | 2017     |
+| 55m Hurdles 39"   | 8.84        | Jason Christensen                                             | 2012     |
+| 60m Hurdles 39"   | 9.13        | Jason Christensen                                             | 2015     |
+| Shot Put 12lb.    | 47' 7.75"   | Dregan Baumgardner                                            | 2012     |
+| High Jump         | 6' 10"      | Jonathan Christensen                                          | 2011     |
+| Pole Vault        | 13' 0"      | Dan Barrett                                                   | 2012     |
+| Long Jump         | 19' 9.5"    | Jakob Richardson                                              | 2012     |
+| **4x200 Relay**   | **1:38.74** | **Trent Jones, Cameron Giles, Ty Welliever, Evan Hedge**      | **2019** |
+| 4x400 Relay       | 3:42.20     | Daniel Barrett, Devon Burton, Jacob Jenkins, Christyan Kashon | 2013     |
+| 4x800 Relay       | 8:37.07     | Alec Brissey, Brooks Long, Ross Lippencott, Noah Clos         | 2017     |
+| 12-4-8-16 Relay   | 11:22.57    | Alec Brissey, Noah Close, Ross Lippencott, Brooks Long        | 2017     |
 
 ## Girls All Time
 
