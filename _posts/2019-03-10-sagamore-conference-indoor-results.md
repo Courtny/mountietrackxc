@@ -17,10 +17,6 @@ The Mounties had a pair of winners in the girls pole vault, and boys 4x200 relay
     <img src="/img/uploads/ward.jpg">
 </div>
 
-![The Boys 4x200 Relay Team celebrating their victory and record after the race - Jones, Giles, Welliever, Hedge](/img/uploads/4x200.jpg "Boys 4x200 Relay Team - Jones, Giles, Welliever, Hedge")
-
-![Emma Ward standing with pole vault pole watching other competitors](/img/uploads/ward.jpg "Emma Ward won the Sagamore Conference indoor pole vault")
-
 On the girls side, Lexie Odum finished fourth in the 60 meter dash with a time of 8.37, while **Shannon Isenberg** was third in the 60 meter hurdles in 10.31, and **Tiffany Dittmer** was fifth in 11.06. The girls 4x200 relay team was second in 1:56.01. **Lexi Nelson** was second in the high jump with an effort of four feet and six inches. 
 
 For the boys, **Trent Jones** was fourth in the 60 meter dash with a time of 7.45, while **Takeshi Greiner** was second in the 60 meter hurdles in 9.41. **Thomas Richardson** was sixth in the 3200 meter run with a time of 11:11.89. **Trent Jones** was also second in the long jump with an effort of nineteen feet and four and one half inches. **Zion Essex** was second in the shot put with a throw of 42 feet and seven inches. 
