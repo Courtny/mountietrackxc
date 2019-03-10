@@ -12,6 +12,11 @@ description: >-
 
 The Mounties had a pair of winners in the girls pole vault, and boys 4x200 relay. **Emma Ward** won the pole vault with an effort of eight feet. The boys 4x200 relay won with a time of 1:38.74.
 
+<div class="gallery" data-columns="2">
+    <img src="/img/uploads/4x200.jpg">
+    <img src="/img/uploads/ward.jpg">
+</div>
+
 ![The Boys 4x200 Relay Team celebrating their victory and record after the race - Jones, Giles, Welliever, Hedge](/img/uploads/4x200.jpg "Boys 4x200 Relay Team - Jones, Giles, Welliever, Hedge")
 
 ![Emma Ward standing with pole vault pole watching other competitors](/img/uploads/ward.jpg "Emma Ward won the Sagamore Conference indoor pole vault")
