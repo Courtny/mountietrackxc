@@ -8,13 +8,13 @@ description: >-
 ---
 ## Meet Recap
 
-\| [Photo Album](https://www.facebook.com/media/set/?set=a.3111474142211987&type=1&l=92ec85452c) _(Facebook)_             | [Official Results List](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.alphatiming.net%2Ffiles%2Fsagamore-indoor-conference-2019.pdf%3Ffbclid%3DIwAR0PnXRXxp6Ke4OGov7GcIBb3L4YrZ0PDeR5zJuHRC_9MjB-q7DjxWIqNl4&h=AT30fBjIK7TftsDyHN1KkWskOzxopg0GnhuuqqBcet-h4NFxlFRcGmNSI-eMmJOBkZp3Xg-FCAlOZKzLiZrr57e995DhKJCNkDgZVXyvYV407HkCuukcRHhj-lK_EFugDf0zffDU39P2RylKH5Dr256EYP7-fWpjJGV4CKP7T4z29nfbuuGd4--cRDqn1ZLGeqJ7CoRcwSylloicHnS28XjdSgwfpPFTg5YPRFN2kmo6Q_XVOMhm8bboronsZalOl4JOHfbZLsFeDEKxcvy6k8CZYlhgbiBfW30hfJ7oDJOFU_uCB-M6joaSTCwifsiku_VlEd954ge6PNW-G_9t7n76VlHeD1HxATFw9Gr3H44ukOgCKRo_L3drYrnh5-ftOAQr0MFybJPBJaSVD_f7EEHkM-pP_rSBxPiqJlunEZ5nnCXwcL31GZIijuKeCwpYybCoJIz2OdDUJOaQzyDsz-b4vwUpeyGQE8BvHMNIvAqlKviq6Z2zjSRvM8gVYrYff9h9HD6O0DyD4_l-jvVnnkJAJKl-O9ZQUYMDGIvtgRlBDAOd-8DWNluX_coZS_OcYkWmqM1cCpbcR66-zRwj9GsHfizVG8eHR59xg16PCXcRoHYdoEy3UVD49r2cNNV6n66QdJqqrw) _(Alphatiming)_ | 
+[Photo Album](https://www.facebook.com/media/set/?set=a.3111474142211987&type=1&l=92ec85452c) _(Facebook)_  | [Official Results List](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.alphatiming.net%2Ffiles%2Fsagamore-indoor-conference-2019.pdf%3Ffbclid%3DIwAR0PnXRXxp6Ke4OGov7GcIBb3L4YrZ0PDeR5zJuHRC_9MjB-q7DjxWIqNl4&h=AT30fBjIK7TftsDyHN1KkWskOzxopg0GnhuuqqBcet-h4NFxlFRcGmNSI-eMmJOBkZp3Xg-FCAlOZKzLiZrr57e995DhKJCNkDgZVXyvYV407HkCuukcRHhj-lK_EFugDf0zffDU39P2RylKH5Dr256EYP7-fWpjJGV4CKP7T4z29nfbuuGd4--cRDqn1ZLGeqJ7CoRcwSylloicHnS28XjdSgwfpPFTg5YPRFN2kmo6Q_XVOMhm8bboronsZalOl4JOHfbZLsFeDEKxcvy6k8CZYlhgbiBfW30hfJ7oDJOFU_uCB-M6joaSTCwifsiku_VlEd954ge6PNW-G_9t7n76VlHeD1HxATFw9Gr3H44ukOgCKRo_L3drYrnh5-ftOAQr0MFybJPBJaSVD_f7EEHkM-pP_rSBxPiqJlunEZ5nnCXwcL31GZIijuKeCwpYybCoJIz2OdDUJOaQzyDsz-b4vwUpeyGQE8BvHMNIvAqlKviq6Z2zjSRvM8gVYrYff9h9HD6O0DyD4_l-jvVnnkJAJKl-O9ZQUYMDGIvtgRlBDAOd-8DWNluX_coZS_OcYkWmqM1cCpbcR66-zRwj9GsHfizVG8eHR59xg16PCXcRoHYdoEy3UVD49r2cNNV6n66QdJqqrw) _(Alphatiming)_ 
 
 The Mounties had a pair of winners in the girls pole vault, and boys 4x200 relay. **Emma Ward** won the pole vault with an effort of eight feet. The boys 4x200 relay won with a time of 1:38.74.
 
 ![The Boys 4x200 Relay Team celebrating their victory and record after the race - Jones, Giles, Welliever, Hedge](/img/uploads/4x200.jpg "Boys 4x200 Relay Team - Jones, Giles, Welliever, Hedge")
 
- 
+![Emma Ward standing with pole vault pole watching other competitors](/img/uploads/ward.jpg "Emma Ward won the Sagamore Conference indoor pole vault")
 
 On the girls side, Lexie Odum finished fourth in the 60 meter dash with a time of 8.37, while **Shannon Isenberg** was third in the 60 meter hurdles in 10.31, and **Tiffany Dittmer** was fifth in 11.06. The girls 4x200 relay team was second in 1:56.01. **Lexi Nelson** was second in the high jump with an effort of four feet and six inches. 
 
