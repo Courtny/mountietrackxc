@@ -1,6 +1,7 @@
 site: Personal Jekyll Theme
 
 port: 4002
+url: https://mountietrackxc.com
 
 collections:
   pages:
