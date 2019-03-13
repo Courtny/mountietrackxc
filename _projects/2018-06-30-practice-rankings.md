@@ -13,7 +13,7 @@ Our collection of practice rankings for different speed exercises. All times her
 Ranking Sheets *(Google Spreadsheets)*:
 
 1. [F.A.T 40 YARD FLY](https://docs.google.com/spreadsheets/d/1zVnAxquoyIKPkbm55wgif18XGMszY3uKewwwRQTuYRw/edit#gid=0)
-2. [24-SECOND DRILL ON 154M TRACK](https://docs.google.com/spreadsheets/d/1UOtuHx2tUqgVGpB1AaIulRryLn7Om2SQTb-VFVpE5KI/edit)
+2. [24-SECOND DRILL](https://docs.google.com/spreadsheets/d/1UOtuHx2tUqgVGpB1AaIulRryLn7Om2SQTb-VFVpE5KI/edit)
 3. [400M REPEATS](https://docs.google.com/spreadsheets/d/18dTXgOX1dzJPj7HbbO52qwpZOGo1j8sTrL0FuGeWUxc/edit?usp=sharing)
 
 > “We are not scientists testing sprint-training methodology. We collect data because kids run faster when they are timed. Since the goal of speed training is to run fast, we teach to the test and test often.”
