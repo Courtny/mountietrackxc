@@ -1,4 +1,4 @@
-# Website of the Southmont Track & Field coaching staff
+# Website of the Southmont Track & Field / Cross Country
 
 Our coaching staff uses this site to regularly communicate practice rankings, results, and news to our athletes, family members, and fans.
 
