@@ -24,7 +24,7 @@ Takeshi Greiner enters the 60m Hurdles seeded 16th. Emma Ward sits tied for 14th
 
 Shannon Isenberg rounds out the field of nine competing in the 60m Hurdles with a 15th place seed.
 
-**This meet will also be broadcast live on** [**urstreet.tv**](www.urstreet.tv/)****
+**This meet will also be broadcast live on [urstreet.tv](www.urstreet.tv/) **
 
 Indiana Runner will partner with JC Connect again this year to bring you a free, live streaming webcast of the HSR Finals on Saturday, March 23 from Gladstein Fieldhouse (IU).
 
