@@ -20,4 +20,11 @@ Shannon Isenberg rounds out the field of nine as the highest individually ranked
 
 Complete Heat Sheets are available at the [IATCCC website](http://www.alphatiming.net/files/hsr-small-school-perf-list-as-of-3.20-3.45pm.pdf).
 
+**This meet will also be broadcast live on** [**urstreet.tv**](www.urstreet.tv/)****
+
+Indiana Runner will partner with JC Connect again this year to bring you a free, live streaming webcast of the HSR Finals on Saturday, March 23 from Gladstein Fieldhouse (IU).
+
+* Large school competition begins at 10:00 with commentators **Derek Leininger** and **Scott Lidskin**.
+* Small school competition begins at 4:00 with commentators **Drake Sterling** and **Colin Altevogt**.
+
 This is the final indoor meet of the season, and is widely regarded as the Indiana Indoor State Championships.
