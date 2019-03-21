@@ -34,3 +34,5 @@ Indiana Runner will partner with JC Connect again this year to bring you a free,
 This is the final indoor meet of the season, and is widely regarded as the Indiana Indoor State Championships.
 
 Complete Heat Sheets are available at the [IATCCC website](http://www.alphatiming.net/files/hsr-small-school-perf-list-as-of-3.20-3.45pm.pdf).
+
+> Moving into this weekend, we're looking to enjoy this opportunity and try to improve on the seeds we were given.
