@@ -14,7 +14,7 @@ The top 24 track, long jump & shot and top 18 high jump & pole vault in each div
 
 Coach Cotten had the following to say about his team preparing for the weekend:
 
-> "I think everyone is ready to get back on the track and have another shot at improving their performances. We had one indoor meet to try and qualify, and I believe that we would have seen more improvement and possibly more qualifiers given another shot. Moving into this weekend, we're looking to enjoy this opportunity and try to improve on the seeds we were given."
+_"I think everyone is ready to get back on the track and have another shot at improving their performances. We had one indoor meet to try and qualify, and I believe that we would have seen more improvement and possibly more qualifiers given another shot. Moving into this weekend, we're looking to enjoy this opportunity and try to improve on the seeds we were given."_
 
 The boys & girls 4x200 relay teams are poised to attempt another shot at the record books this weekend. The boys 4x200 of **Cameron Giles**, **Ty Welliever**, **Trent Jones** and **Evan Hedge** are seeded 13th. **Lexie Odum**, **Mia Myers**, **Shannon Isenberg**, and **Emma Ward** are competing in the girls 4x200. The girls team currently sits in 18th and will have another run against rival Danville, who edged them at the Sagamore Conference meet in the finals.
 
@@ -22,7 +22,7 @@ The boys & girls 4x200 relay teams are poised to attempt another shot at the rec
 
 Takeshi Greiner enters the 60m Hurdles seeded 16th. Emma Ward sits tied for 14th in Pole Vault. Lexie Odum is 23rd in the 60m Dash, while Trent Jones is in the 24th spot. Both are looking for a chance to improve their seed positions and move up in the rankings in the short sprint.
 
-Shannon Isenberg rounds out the field of nine as the highest individually ranked competitor for the Mounties. She is competing in the 60m Hurdles with a 15th place seed.
+Shannon Isenberg rounds out the field of nine competing in the 60m Hurdles with a 15th place seed.
 
 **This meet will also be broadcast live on** [**urstreet.tv**](www.urstreet.tv/)****
 
