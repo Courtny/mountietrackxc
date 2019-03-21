@@ -20,6 +20,8 @@ _"I think everyone is ready to get back on the track and have another shot at im
 
 The boys & girls 4x200 relay teams are poised to attempt another shot at the record books this weekend. The boys 4x200 of **Cameron Giles**, **Ty Welliever**, **Trent Jones** and **Evan Hedge** are seeded 13th. **Lexie Odum**, **Mia Myers**, **Shannon Isenberg**, and **Emma Ward** are competing in the girls 4x200. The girls team currently sits in 18th and will have another run against rival Danville, who edged them at the Sagamore Conference meet.
 
+**Beckett Jett** & **Alex Garver** are alternates for the boy's 4x200, and **Tiffany Dittmer** serves as the lone alternate for the girls 4x200.
+
 **Takeshi Greiner**, Emma Ward, Lexie Odum, Trent Jones, and Shannon Isenberg will all be representing Southmont in individual events as well.
 
 Takeshi Greiner enters the 60m Hurdles seeded 16th. Emma Ward sits tied for 14th in Pole Vault. Lexie Odum is 23rd in the 60m Dash, while Trent Jones is in the 24th spot. Both are looking for a chance to improve their seed positions and move up in the rankings in the short sprint.
