@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nine Athletes Qualify for Hoosier State Relays
+title: Nine Athletes Qualify for Indoor State Finals
 featured_image: /img/uploads/qualifiers-large.jpg
 description: >-
   The Mounties qualified 9 individuals across 7 events to represent Southmont at
