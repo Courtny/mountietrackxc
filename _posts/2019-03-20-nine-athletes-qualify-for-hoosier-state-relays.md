@@ -4,7 +4,7 @@ title: Nine Athletes Qualify for Indoor State Finals
 featured_image: /img/uploads/qualifiers-large.jpg
 description: >-
   The Mounties qualified 9 individuals across 7 events to represent Southmont at
-  the Hoosier State Relays held in Bloomington, Indiana.
+  the Hoosier State Relays held in Bloomington, Indiana on March 23, 2019.
 ---
 _New Market, IN_ - **Nine members of the Southmont track and field team qualified to compete in 6 events at the 2019 IATCCC Hoosier State Relays held in Bloomington, Indiana on Saturday March 23, 2019.**
 
