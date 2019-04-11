@@ -40,7 +40,7 @@ Bold results indicate recent (within 1 year) records.
 | Event           | Performance | Athlete                                                         | Year     |
 | --------------- | ----------- | --------------------------------------------------------------- | -------- |
 | 55 Meter Dash   | 7.74        | Jessica Shelton                                                 | 2011     |
-| 60 Meter Dash   | 8.37        | Lexie Odum                                                      | 2019     |
+| 60 Meter Dash   | 8.37        | Lexie Odum                                                      | 2018     |
 | 200 Meters      | 28.37       | Jessica Shelton                                                 | 2013     |
 | 400 Meters      | 1:06.05     | Shannon Isenberg                                                | 2018     |
 | 800 Meters      | 2:50.73     | Renae Turner                                                    | 2013     |
