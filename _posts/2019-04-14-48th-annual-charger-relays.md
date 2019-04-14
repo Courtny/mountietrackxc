@@ -2,7 +2,9 @@
 layout: post
 title: 48th Annual Charger Relays
 featured_image: /img/uploads/57311577_3190478304311570_6582896228550311936_o.jpg
-description: Meet Recap
+description: |-
+  Meet recap, headlines, results, splits, pics, etc.
+  Held April 12th @ North Montgomery High School
 ---
 **Weather conditions:**
 
