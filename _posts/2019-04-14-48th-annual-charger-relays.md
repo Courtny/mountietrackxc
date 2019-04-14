@@ -20,7 +20,7 @@ Fun to win, especially with scintillating finishes by Dillan Lauy on both teams.
 
 Trent Jones, Cameron Giles, Nathan France & Dillan Lauy teamed up to blow away the field uncontested in both the sprint relays.
 
-All four boys ran season best splits into a heavy wind. The 400m split averages are the second fastest we've seen in past 20+ years for four guys.
+All four boys ran season best splits into a heavy wind. The 400m split averages are the second fastest we've seen in past 20+ years for four guys. And it's only April.
 
 ## Girls Shuttle Hurdle Retain Crown
 
