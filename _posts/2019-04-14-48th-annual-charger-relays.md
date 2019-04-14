@@ -10,6 +10,8 @@ description: |-
 
 Sunny, windy, cold. Meet started with temps at 54º and got down to 47º by 8PM. Consistent 15-20 mph wind blowing from the southwest.
 
+[Southmont Full Results](https://docs.google.com/spreadsheets/d/1mCTyufuI7OblASIp1WHg2Xim_-LsywPnXWqIQUB0ZjE/edit?usp=sharing)
+
 - - -
 
 # Headlines
