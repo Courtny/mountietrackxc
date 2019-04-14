@@ -16,7 +16,7 @@ Sunny, windy, cold. Meet started with temps at 54º and got down to 47º by 8PM.
 
 ## Boys 4x400 & 4x100 Dominant
 
-Fun to win, especially with a scintillating finishes by Dillan Lauy on both teams.
+Fun to win, especially with scintillating finishes by Dillan Lauy on both teams.
 
 Trent Jones, Cameron Giles, Nathan France & Dillan Lauy teamed up to blow away the field uncontested in both the sprint relays.
 
