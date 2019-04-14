@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 48th Annual Charger Relays
-featured_image: /img/uploads/mounties-default.jpg
+featured_image: /img/uploads/57311577_3190478304311570_6582896228550311936_o.jpg
 description: Meet Recap
 ---
 **Weather conditions:**
