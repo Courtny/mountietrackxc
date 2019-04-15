@@ -69,3 +69,5 @@ Mishaps that could have been avoided occurred on both boys and girls sides.
 The mens 4x200 team was poised as a favorite. A failed handoff sank hopes of a victory and a shot at the school record.
 
 The women's 4x100 team was similarly a contender for the primary spot. Another failed handoff between #3 and #4 runners dashed hopes of what would have been an electric finish with Northview and Benton Central.
+
+We reset and reload for next week, with an emphasis on meet preparation!
