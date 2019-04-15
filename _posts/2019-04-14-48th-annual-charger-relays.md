@@ -56,7 +56,7 @@ Still searching for our 4th runner to take this 4x400 group from good to great.
 
 ## Boys Discus Duo 4th with Season Bests
 
-Jamie Freeman and Zion Essex stepped up for a fourth place finish. Both boys had season best throws. Freeman went 111' 1" and Essex was 102' 2" 
+Jamie Freeman and Zion Essex stepped up for a fourth place finish. Both boys had season best throws. Freeman went 111' 1" and Essex was 102' 2". 
 
 ## Young Distance Crew Improving
 
