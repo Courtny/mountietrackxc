@@ -48,7 +48,9 @@ The ladies had their hands full in both these races. Girls lead the 4x200 until 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T1JfXOw_ZsQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In the 4x400, #1 runner Shannon Isenberg ran a lifetime personal best split to open things off and grant the Mounties the lead. Suzi Pedro battled during second leg against a strong North Montgomery #2 runner. Lexie Odum closed out the race with a valiant effort but was unable to close the gap with North Montgomery in time. North Montgomery 4:20.57 / Southmont 4:24.10.
+In the 4x400, #1 runner Shannon Isenberg ran a lifetime personal best split to open things off and grant the Mounties the lead. Suzi Pedro battled during second leg against a strong North Montgomery #2 runner. Lexie Odum closed out the race with a valiant effort but was unable to close the gap with North Montgomery in time.
+
+North Montgomery 4:20.57 / Southmont 4:24.10.
 
 Still searching for our 4th runner to take this 4x400 group from good to great.
 
@@ -70,4 +72,4 @@ The mens 4x200 team was poised as a favorite. A failed handoff sank hopes of a v
 
 The women's 4x100 team was similarly a contender for the primary spot. Another failed handoff between #3 and #4 runners dashed hopes of what would have been an electric finish with Northview and Benton Central.
 
-We reset and reload for next week, with an emphasis on meet preparation!
+We will reset and reload for next week, with an emphasis on meet preparation!
