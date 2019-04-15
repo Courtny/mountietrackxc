@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 48th Annual Charger Relays
+title: 'Recap: 48th Annual Charger Relays'
 featured_image: /img/uploads/charger-relays-jones-france.jpg
 description: >-
   The Mounties picked up victories in the Boys 4x100 & 4x400 relays, as well as
