@@ -404,7 +404,7 @@ section {
 .img-sm {
 	width: 100%;
 
-	@include mq(phonel) {
+	@include mq(tabletp) {
 		width: 30%;
 	}
 
