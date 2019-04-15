@@ -64,7 +64,7 @@ Jamie Freeman and Zion Essex stepped up for a fourth place finish. Both boys had
 
 ## Young Distance Crew Improving
 
-<img src="blob:https://mountietrackxc.com/9a4d3443-38a6-4db4-b8e6-67e72f4231f4" alt="Cale-Hess-Running" class="align-left img-sm">
+<img src="https://raw.githubusercontent.com/Courtny/mountietrackxc/master/img/uploads/cale-hess-distance.jpg" alt="Cale-Hess-Running" class="align-left img-sm">
 
 The boys ran the 4x800 without #1 runner Thomas Richardson. The boys were still able to crack 10 minutes in the 4x800 (9:59.16). Three boys improved their split times. Cale Hess led the way followed by Logan Phillips & Austin Smothers. Future is looking brighter for mid-distance. These are all very young inexperienced guys who are getting better weekly.
 
