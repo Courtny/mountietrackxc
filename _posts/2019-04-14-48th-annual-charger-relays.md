@@ -26,9 +26,11 @@ Fun to win, especially with scintillating finishes by Dillan Lauy on both teams.
 
 Trent Jones, Cameron Giles, Nathan France & Dillan Lauy teamed up to blow away the field uncontested in both the sprint relays.
 
-4x400 - 3:33.01 / 4x100 - 45.97
+4x400 - 3:32.55 / 4x100 - 45.97
 
 All four boys ran season best splits into a heavy wind. The 400m split averages are the second fastest we've seen in past 20+ years for four guys. And it's only April.
+
+Splits: Jones (51.37) Giles (55.90) France (52.70) Lauy (52.28)
 
 ## Girls Shuttle Hurdle Retain Crown
 
@@ -52,7 +54,9 @@ In the 4x400, #1 runner Shannon Isenberg ran a lifetime personal best split to o
 
 North Montgomery 4:20.57 / Southmont 4:24.10.
 
-Still searching for our 4th runner to take this 4x400 group from good to great.
+Still searching for our 4th runner to take this 4x400 group from good TO great.
+
+Splits: Isenberg (1:02.78) Pedro (1:06.78) Ward (1:10.43) Odum (1:03.86).
 
 ## Boys Discus Duo 4th with Season Bests
 
@@ -74,4 +78,4 @@ The mens 4x200 team was poised as a favorite. A failed handoff sank hopes of a v
 
 The women's 4x100 team was similarly a contender for the primary spot. Another failed handoff between #3 and #4 runners dashed hopes of what would have been an electric finish with Northview and Benton Central.
 
-We will reset and reload for next week, with an emphasis on meet preparation!
+We will reset and reload for the coming week!
