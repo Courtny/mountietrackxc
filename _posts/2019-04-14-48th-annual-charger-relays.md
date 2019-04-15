@@ -58,6 +58,8 @@ Jamie Freeman and Zion Essex stepped up for a fourth place finish. Both boys had
 
 ## Young Distance Crew Improving
 
+<img src="blob:https://mountietrackxc.com/9a4d3443-38a6-4db4-b8e6-67e72f4231f4" alt="image-left" class="align-left" style="margin-right: 1rem; margin-bottom: 1rem; float: left; width: 30%;">
+
 The boys ran the 4x800 without #1 runner Thomas Richardson. The boys were still able to crack 10 minutes in the 4x800 (9:59.16). Three boys improved their split times. Austin Smothers, Logan Phillips, Cale Hess. Future is looking brighter for distance.
 
 ## Lack of Focus Takes Toll
