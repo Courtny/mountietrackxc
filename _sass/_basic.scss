@@ -402,10 +402,10 @@ section {
 }
 
 .img-sm {
-	width: 30%;
+	width: 100%;
 
 	@include mq(phonel) {
-		width: 100%;
+		width: 30%;
 	}
 
 }
