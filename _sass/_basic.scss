@@ -394,3 +394,18 @@ section {
 		max-width: 1100px;
 	}
 }
+
+.align-left {
+	float: left;
+	margin-right: 1rem;
+	margin-bottom: 1rem;
+}
+
+.img-sm {
+	width: 30%;
+
+	@include mq(tabletp) {
+		width: 100%;
+	}
+
+}
