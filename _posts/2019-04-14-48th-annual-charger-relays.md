@@ -22,6 +22,8 @@ Sunny, windy, cold. Meet started with temps at 54º and got down to 47º by 8PM.
 
 Fun to win, especially with scintillating finishes by Dillan Lauy on both teams.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oF1Y8QWD_v8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Trent Jones, Cameron Giles, Nathan France & Dillan Lauy teamed up to blow away the field uncontested in both the sprint relays.
 
 4x400 - 3:33.01 / 4x100 - 45.97
@@ -43,6 +45,8 @@ Dillan Lauy had the best long jump of all individuals on the night at 20' 10.5".
 ## Girls 4x200 & 4x400 Second in Close Races
 
 The ladies had their hands full in both these races. Girls lead the 4x200 until the anchor leg. Benton Central goes 1:53.13 / Southmont 1:53.91.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T1JfXOw_ZsQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In the 4x400, #1 runner Shannon Isenberg ran a lifetime personal best split to open things off and grant the Mounties the lead. Suzi Pedro battled during second leg against a strong North Montgomery #2 runner. Lexie Odum closed out the race with a valiant effort but was unable to close the gap with North Montgomery in time. North Montgomery 4:20.57 / Southmont 4:24.10.
 
