@@ -2,7 +2,10 @@
 layout: post
 title: 48th Annual Charger Relays
 featured_image: /img/uploads/charger-relays-jones-france.jpg
-description: 'Meet recap, headlines, videos, results, splits, pictures.'
+description: >-
+  The Mounties picked up victories in the Boys 4x100 & 4x400 relays, as well as
+  a top finish in the Girls Shuttle Hurdle. A number of season bests and top
+  performances occurred as well.
 ---
 Held April 12th @ North Montgomery High School
 
