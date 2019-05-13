@@ -10,17 +10,17 @@ categories: ''
 ---
 ## Boy Scorers
 
-**Dillan Lauy:** 1st 400m Dash (52.38) / 1st Pole Vault (12'0") **PR** / 3rd Long Jump (20'6") / 1st 4x400m Relay (3:31.27) **PR**
-**Trent Jones:** 1st 200m Dash (23.44) / 3rd 100m Dash (11.57) / 1st 4x400m Relay (3:31.27) **PR**
-**Nathan France:** 2nd 400m Dash (52.76) **PR** / **1st 4x400m Relay (3:31.27)** **PR**
-**Zion Essex:** 2nd in Shot Put (43'9") **PR**
-**Takeshi Greiner:** 3rd 110m Hurdles (16.54) / 5th 300m Hurdles (44.61) **PR**
-**Jake Whitecotton:** 3rd 300m Hurdles (43.08) / 5th 110m Hurdles (17.12) **PR**
-**Thomas Richardson:** 6th 3200m (10:42.52) **PR** / 8th 1600m (4:57.94) _SR_
-**Jamie Freeman:** 5th Discus (122'6") **PR**
-**Cale Hess:** 5th Pole Vault (10') **PR**
-**Jud VanCleave:** 8th Discus (109') **PR**
-Boys 4x800 (7th 10:01.54): **Ryan Sowers, Connor Keller, Austin Smothers, Logan Phillips**
+* **Dillan Lauy:** 1st 400m Dash (52.38) / 1st Pole Vault (12'0") **PR** / 3rd Long Jump (20'6") / 1st 4x400m Relay (3:31.27) **PR**
+* **Trent Jones:** 1st 200m Dash (23.44) / 3rd 100m Dash (11.57) / 1st 4x400m Relay (3:31.27) **PR**
+* **Nathan France:** 2nd 400m Dash (52.76) **PR** / **1st 4x400m Relay (3:31.27)** **PR**
+* **Zion Essex:** 2nd in Shot Put (43'9") **PR**
+* **Takeshi Greiner:** 3rd 110m Hurdles (16.54) / 5th 300m Hurdles (44.61) **PR**
+* **Jake Whitecotton:** 3rd 300m Hurdles (43.08) / 5th 110m Hurdles (17.12) **PR**
+* **Thomas Richardson:** 6th 3200m (10:42.52) **PR** / 8th 1600m (4:57.94) _SR_
+* **Jamie Freeman:** 5th Discus (122'6") **PR**
+* **Cale Hess:** 5th Pole Vault (10') **PR**
+* **Jud VanCleave:** 8th Discus (109') **PR**
+* Boys 4x800 (7th 10:01.54): **Ryan Sowers, Connor Keller, Austin Smothers, Logan Phillips**
 
 - - -
 
