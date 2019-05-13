@@ -40,7 +40,7 @@ The boys 4x400 relay team of Jones, France, Lauy and Cameron Giles did what they
 
 ## Throwers Step Up
 
-Our throwers had big personal bests on the evening. Zion Essex led the way for the Mountie throwing crew, placing and inspired second in the Shot Put. Jamie Freeman and Jud VanCleave clawed their way to a 5th and 8th place finish in the discus.
+Our throwers had big personal bests on the evening. Zion Essex led the way for the Mountie throwing crew, placing an inspired second in the Shot Put. Jamie Freeman and Jud VanCleave clawed their way to a 5th and 8th place finish in the discus.
 
 ## Hurdlers Double-up Personal Bests
 
@@ -62,6 +62,6 @@ Thomas Richardson was out to prove something his senior year in the Conference. 
 
 **Zane Mason:** Dropped a personal record in the Shot Put (37'2"). Young guys improving always makes coach happy.
 
-**Logan Phillips:** Hard Fought, placed 13th in 800m **\*\*(2:24.73)**.\*\* He has really come along this year as a freshman. A tenacious worker and a leader for the future of the distance squad.
+**Logan Phillips:** Hard Fought, placed 13th in 800m **(2:24.73)**. He has really come along this year as a freshman. A tenacious worker and a leader for the future of the distance squad.
 
 Boys 4x800: **Ryan Sowers, Connor Keller, Austin Smothers, Logan Phillips.** I expected to get 8th place. Our boys pulled out 7th (10:01.54). And they set a personal record for their relay squad.
