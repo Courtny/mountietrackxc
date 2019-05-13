@@ -22,7 +22,7 @@ categories: ''
 * **Jud VanCleave:** 8th Discus (109') **PR**
 * Boys 4x800 (7th 10:01.54): **Ryan Sowers, Connor Keller, Austin Smothers, Logan Phillips**
 
-****[**Race videos**](https://www.youtube.com/playlist?list=PLxbzc-F6z3wSj9l2yzxhce46PfLKuBVQ6&fbclid=IwAR3Gu-WWDpsQIuwgr2a8p7VWRrWyO8bWL-Lu8uNsUx38Fj4t6PvSAzqX-20) **\|** [**Complete results**](https://www.athletic.net/TrackAndField/MeetResults.aspx?Meet=381359&show=all)****
+[**Race videos**](https://www.youtube.com/playlist?list=PLxbzc-F6z3wSj9l2yzxhce46PfLKuBVQ6&fbclid=IwAR3Gu-WWDpsQIuwgr2a8p7VWRrWyO8bWL-Lu8uNsUx38Fj4t6PvSAzqX-20) **\|** [**Complete results**](https://www.athletic.net/TrackAndField/MeetResults.aspx?Meet=381359&show=all)
 
 - - -
 
