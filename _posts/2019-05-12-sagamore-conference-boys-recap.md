@@ -24,9 +24,9 @@ categories: ''
 
 - - -
 
-## Headlines
+# Headlines
 
-# Mounties Dominate Long Sprints
+## Mounties Dominate Long Sprints
 
 Dillan Lauy, Trent Jones, and Nathan France put a stranglehold on the 200m and 400m races. Super freshman Jones was Conference Champion in the 200m Dash, and pulled out a 3rd place finish in the 100m Dash.
 
@@ -36,15 +36,15 @@ The boys 4x400 relay team of Jones, France, Lauy and Cameron Giles did what they
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iMmIzoRDPiQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Throwers Step Up
+## Throwers Step Up
 
 Our throwers had big personal bests on the evening. Zion Essex led the way for the Mountie throwing crew, placing and inspired second in the Shot Put. Jamie Freeman and Jud VanCleave clawed their way to a 5th and 8th place finish in the discus.
 
-# Hurdlers Double-up Personal Bests
+## Hurdlers Double-up Personal Bests
 
 Takeshi Greiner and Jake Whitecotton continued their strong seasons, both running personal bests. Greiner secured a 3rd place finish in the 110 hurdles, and 5th in the 300m with a PR. Jake Whitecotton ran a strong race for a PR in the 110 hurdles for 5th, and secured a 3rd place finish in the 300m Hurdles.
 
-# Veteran Harrier Richardson Stands Alone
+## Veteran Harrier Richardson Stands Alone
 
 Thomas Richardson was out to prove something his senior year in the Conference. He did not go out without a fight. Thomas contributed two hard nosed races to secure a 6th place finish in the 3200m Run and 8th in the 1600m Run. Both finishes came down to sprints in the final moments.
 
@@ -52,7 +52,7 @@ Thomas Richardson was out to prove something his senior year in the Conference. 
 
 - - -
 
-**Honorable Mentions:**
+## **Honorable Mentions:**
 
 **Cale Hess:** A fifth place finish in Pole Vault (10'). Personal record in the 1600m (5:16.81), finishing 12th. Another young guy figuring out how to race and exploring what Track & Field is about. Performs under clutch situations. No experience running distance or vaulting. A great athlete with a high ceiling.
 
