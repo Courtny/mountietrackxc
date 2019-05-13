@@ -34,6 +34,8 @@ Dillan Lauy, Trent Jones, and Nathan France put a stranglehold on the 200m and 4
 
 The highlight of the evening for the sprint crew was the double hammer performance of Dillan Lauy (Champion) and Nathan France (Runner-Up) in the 400m Dash. The Mountie quarter milers were able to hold off challengers from Lebanon in the closing 100 meters of the race.
 
+I call Dillan "Batman". He can do anything, he's Mr Utility. He also secured the Champion spot in Pole Vault and placed 3rd in Long Jump.
+
 The boys 4x400 relay team of Jones, France, Lauy and Cameron Giles did what they have all season and dominated the competition to become conference champions.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iMmIzoRDPiQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
